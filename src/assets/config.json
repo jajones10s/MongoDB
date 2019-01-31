@@ -1,0 +1,15 @@
+{
+    "routes": [
+        {
+            "feature": "Users",
+            "urls": [
+                {
+                    "endpoint": "http://localhost:30006/user",
+                    "params": [
+                        "id"
+                    ]
+                }
+            ]
+        }
+    ]
+}
